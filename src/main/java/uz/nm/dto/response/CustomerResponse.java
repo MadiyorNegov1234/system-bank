@@ -15,7 +15,7 @@ public class CustomerResponse {
     private LocalDateTime updatedAt;
     private String firstName;
     private String lastName;
-    private String phoneNumber;
+    private Integer phoneNumber;
     private String email;
     private String passport;
     private String picture;
